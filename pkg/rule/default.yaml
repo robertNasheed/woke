@@ -96,3 +96,42 @@
     - black box
   alternatives:
     - closed-box
+
+- name: faggot
+  terms:
+    - faggot
+    - fag
+  alternatives:
+    - gay
+    - homosexual
+
+- name: chink
+  terms:
+    - chink
+  alternatives:
+    - chinese
+
+- name: nigger
+  terms:
+    - nigga
+    - nigger
+  alternatives:
+    - person of color
+    - poc
+    - basketball-american
+    - african-american
+	
+- name: spic
+  terms:
+    - spic
+  alternatives:
+    - latinx
+    - latino
+    
+- name: kike
+  terms:
+    - kike
+  alternatives:
+    - jew
+    - jewish
+	
